@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FromGitHub\\cpp_projects\\Ch2_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBA660D-009B-4A6B-8448-8A1AFA423DB0}|Ch2_6\\Ch2_6.vcxproj|D:\\FromGitHub\\cpp_projects\\Ch2_6\\Ch2_6\\convert.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BBA660D-009B-4A6B-8448-8A1AFA423DB0}|Ch2_6\\Ch2_6.vcxproj|solutionrelative:Ch2_6\\convert.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "convert.cpp",
+              "DocumentMoniker": "D:\\FromGitHub\\cpp_projects\\Ch2_6\\Ch2_6\\convert.cpp",
+              "RelativeDocumentMoniker": "Ch2_6\\convert.cpp",
+              "ToolTip": "D:\\FromGitHub\\cpp_projects\\Ch2_6\\Ch2_6\\convert.cpp",
+              "RelativeToolTip": "Ch2_6\\convert.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T00:37:25.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
