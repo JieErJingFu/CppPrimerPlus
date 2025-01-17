@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FromGitHub\\cpp_projects\\Ch3_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{051CB661-132F-40A7-9FB0-79BA8A46A436}|Ch3_6\\Ch3_6.vcxproj|D:\\FromGitHub\\cpp_projects\\Ch3_6\\Ch3_6\\morechar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{051CB661-132F-40A7-9FB0-79BA8A46A436}|Ch3_6\\Ch3_6.vcxproj|solutionrelative:Ch3_6\\morechar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "morechar.cpp",
+              "DocumentMoniker": "D:\\FromGitHub\\cpp_projects\\Ch3_6\\Ch3_6\\morechar.cpp",
+              "RelativeDocumentMoniker": "Ch3_6\\morechar.cpp",
+              "ToolTip": "D:\\FromGitHub\\cpp_projects\\Ch3_6\\Ch3_6\\morechar.cpp",
+              "RelativeToolTip": "Ch3_6\\morechar.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T01:01:38.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

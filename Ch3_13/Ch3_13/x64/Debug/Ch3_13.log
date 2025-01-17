@@ -1,0 +1,4 @@
+﻿  assign.cpp
+D:\FromGitHub\cpp_projects\Ch3_13\Ch3_13\assign.cpp(7,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\FromGitHub\cpp_projects\Ch3_13\Ch3_13\assign.cpp(8,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Ch3_13.vcxproj -> D:\FromGitHub\cpp_projects\Ch3_13\x64\Debug\Ch3_13.exe

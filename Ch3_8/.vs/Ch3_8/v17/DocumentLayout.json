@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FromGitHub\\cpp_projects\\Ch3_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1660C6C3-3394-4C90-AD3B-CF3C03306FB2}|Ch3_8\\Ch3_8.vcxproj|D:\\FromGitHub\\cpp_projects\\Ch3_8\\Ch3_8\\floatnum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1660C6C3-3394-4C90-AD3B-CF3C03306FB2}|Ch3_8\\Ch3_8.vcxproj|solutionrelative:Ch3_8\\floatnum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "floatnum.cpp",
+              "DocumentMoniker": "D:\\FromGitHub\\cpp_projects\\Ch3_8\\Ch3_8\\floatnum.cpp",
+              "RelativeDocumentMoniker": "Ch3_8\\floatnum.cpp",
+              "ToolTip": "D:\\FromGitHub\\cpp_projects\\Ch3_8\\Ch3_8\\floatnum.cpp",
+              "RelativeToolTip": "Ch3_8\\floatnum.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T08:35:08.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  floatnum.cpp
+D:\FromGitHub\cpp_projects\Ch3_8\Ch3_8\floatnum.cpp(6,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Ch3_8.vcxproj -> D:\FromGitHub\cpp_projects\Ch3_8\x64\Debug\Ch3_8.exe
