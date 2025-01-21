@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FromGitHub\\cpp_projects\\Ch04_21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5D1F85-E206-402E-88B7-13028CD3874C}|Ch04_21\\Ch04_21.vcxproj|D:\\FromGitHub\\cpp_projects\\Ch04_21\\Ch04_21\\newstrct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF5D1F85-E206-402E-88B7-13028CD3874C}|Ch04_21\\Ch04_21.vcxproj|solutionrelative:Ch04_21\\newstrct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "newstrct.cpp",
+              "DocumentMoniker": "D:\\FromGitHub\\cpp_projects\\Ch04_21\\Ch04_21\\newstrct.cpp",
+              "RelativeDocumentMoniker": "Ch04_21\\newstrct.cpp",
+              "ToolTip": "D:\\FromGitHub\\cpp_projects\\Ch04_21\\Ch04_21\\newstrct.cpp",
+              "RelativeToolTip": "Ch04_21\\newstrct.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-21T01:55:11.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

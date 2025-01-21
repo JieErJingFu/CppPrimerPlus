@@ -1,0 +1,3 @@
+﻿  assgn_st.cpp
+D:\FromGitHub\cpp_projects\Ch04_12\Ch04_12\assgn_st.cpp(13,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Ch04_12.vcxproj -> D:\FromGitHub\cpp_projects\Ch04_12\x64\Debug\Ch04_12.exe

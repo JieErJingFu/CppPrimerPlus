@@ -1,0 +1,4 @@
+﻿  strtype3.cpp
+D:\FromGitHub\cpp_projects\Ch04_09\Ch04_09\strtype3.cpp(18,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\FromGitHub\cpp_projects\Ch04_09\Ch04_09\strtype3.cpp(19,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Ch04_09.vcxproj -> D:\FromGitHub\cpp_projects\Ch04_09\x64\Debug\Ch04_09.exe

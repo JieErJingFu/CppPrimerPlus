@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FromGitHub\\cpp_projects\\Ch04_05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B25697CC-D573-40AE-847C-286D05BCE3DC}|Ch04_05\\Ch04_05.vcxproj|D:\\FromGitHub\\cpp_projects\\Ch04_05\\Ch04_05\\instr3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B25697CC-D573-40AE-847C-286D05BCE3DC}|Ch04_05\\Ch04_05.vcxproj|solutionrelative:Ch04_05\\instr3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "instr3.cpp",
+              "DocumentMoniker": "D:\\FromGitHub\\cpp_projects\\Ch04_05\\Ch04_05\\instr3.cpp",
+              "RelativeDocumentMoniker": "Ch04_05\\instr3.cpp",
+              "ToolTip": "D:\\FromGitHub\\cpp_projects\\Ch04_05\\Ch04_05\\instr3.cpp",
+              "RelativeToolTip": "Ch04_05\\instr3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-18T01:09:13.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

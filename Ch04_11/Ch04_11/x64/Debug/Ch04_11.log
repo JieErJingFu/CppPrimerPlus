@@ -1,0 +1,4 @@
+﻿  structur.cpp
+D:\FromGitHub\cpp_projects\Ch04_11\Ch04_11\structur.cpp(14,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\FromGitHub\cpp_projects\Ch04_11\Ch04_11\structur.cpp(19,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Ch04_11.vcxproj -> D:\FromGitHub\cpp_projects\Ch04_11\x64\Debug\Ch04_11.exe
