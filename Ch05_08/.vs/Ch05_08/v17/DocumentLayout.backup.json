@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FromGitHub\\cpp_projects\\Ch05_08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7616E44-A236-4850-B4A2-A3634805A3E0}|Ch05_08\\Ch05_08.vcxproj|D:\\FromGitHub\\cpp_projects\\Ch05_08\\Ch05_08\\block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7616E44-A236-4850-B4A2-A3634805A3E0}|Ch05_08\\Ch05_08.vcxproj|solutionrelative:Ch05_08\\block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "block.cpp",
+              "DocumentMoniker": "D:\\FromGitHub\\cpp_projects\\Ch05_08\\Ch05_08\\block.cpp",
+              "RelativeDocumentMoniker": "Ch05_08\\block.cpp",
+              "ToolTip": "D:\\FromGitHub\\cpp_projects\\Ch05_08\\Ch05_08\\block.cpp",
+              "RelativeToolTip": "Ch05_08\\block.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-23T00:28:34.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

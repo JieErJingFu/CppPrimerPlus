@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FromGitHub\\cpp_projects\\Ch05_06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95C26BFB-04C7-4250-AB4E-058DB8940808}|Ch05_06\\Ch05_06.vcxproj|D:\\FromGitHub\\cpp_projects\\Ch05_06\\Ch05_06\\forstr1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95C26BFB-04C7-4250-AB4E-058DB8940808}|Ch05_06\\Ch05_06.vcxproj|solutionrelative:Ch05_06\\forstr1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "forstr1.cpp",
+              "DocumentMoniker": "D:\\FromGitHub\\cpp_projects\\Ch05_06\\Ch05_06\\forstr1.cpp",
+              "RelativeDocumentMoniker": "Ch05_06\\forstr1.cpp",
+              "ToolTip": "D:\\FromGitHub\\cpp_projects\\Ch05_06\\Ch05_06\\forstr1.cpp",
+              "RelativeToolTip": "Ch05_06\\forstr1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T01:24:12.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  forstr2.cpp
+D:\FromGitHub\cpp_projects\Ch05_09\Ch05_09\forstr2.cpp(11,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Ch05_09.vcxproj -> D:\FromGitHub\cpp_projects\Ch05_09\x64\Debug\Ch05_09.exe

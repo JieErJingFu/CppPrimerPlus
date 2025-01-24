@@ -1,0 +1,3 @@
+﻿  waiting.cpp
+D:\FromGitHub\cpp_projects\Ch05_14\Ch05_14\waiting.cpp(9,16): warning C4244: 'initializing': conversion from 'float' to 'clock_t', possible loss of data
+  Ch05_14.vcxproj -> D:\FromGitHub\cpp_projects\Ch05_14\x64\Debug\Ch05_14.exe

@@ -1,0 +1,3 @@
+﻿  forstr1.cpp
+D:\FromGitHub\cpp_projects\Ch05_06\Ch05_06\forstr1.cpp(9,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Ch05_06.vcxproj -> D:\FromGitHub\cpp_projects\Ch05_06\x64\Debug\Ch05_06.exe
