@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FromGitHub\\cpp_projects\\Ch06_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C165C45-73AC-443C-8DB2-68BEDA31D034}|Ch06_10\\Ch06_10.vcxproj|D:\\FromGitHub\\cpp_projects\\Ch06_10\\Ch06_10\\switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C165C45-73AC-443C-8DB2-68BEDA31D034}|Ch06_10\\Ch06_10.vcxproj|solutionrelative:Ch06_10\\switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "switch.cpp",
+              "DocumentMoniker": "D:\\FromGitHub\\cpp_projects\\Ch06_10\\Ch06_10\\switch.cpp",
+              "RelativeDocumentMoniker": "Ch06_10\\switch.cpp",
+              "ToolTip": "D:\\FromGitHub\\cpp_projects\\Ch06_10\\Ch06_10\\switch.cpp",
+              "RelativeToolTip": "Ch06_10\\switch.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-25T07:08:55.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

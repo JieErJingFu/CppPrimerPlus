@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FromGitHub\\cpp_projects\\Ch06_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63021EDD-E8B1-488E-B6D6-83CC0DEA053F}|Ch06_03\\Ch06_03.vcxproj|D:\\FromGitHub\\cpp_projects\\Ch06_03\\Ch06_03\\ifelseif.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63021EDD-E8B1-488E-B6D6-83CC0DEA053F}|Ch06_03\\Ch06_03.vcxproj|solutionrelative:Ch06_03\\ifelseif.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ifelseif.cpp",
+              "DocumentMoniker": "D:\\FromGitHub\\cpp_projects\\Ch06_03\\Ch06_03\\ifelseif.cpp",
+              "RelativeDocumentMoniker": "Ch06_03\\ifelseif.cpp",
+              "ToolTip": "D:\\FromGitHub\\cpp_projects\\Ch06_03\\Ch06_03\\ifelseif.cpp",
+              "RelativeToolTip": "Ch06_03\\ifelseif.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-24T06:45:25.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
