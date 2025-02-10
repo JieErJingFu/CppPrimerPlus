@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FromGitHub\\cpp_projects\\Ch07_13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7293A1-C2A9-42FD-948D-7A81E98CE7FD}|Ch07_13\\Ch07_13.vcxproj|D:\\FromGitHub\\cpp_projects\\Ch07_13\\Ch07_13\\strctptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD7293A1-C2A9-42FD-948D-7A81E98CE7FD}|Ch07_13\\Ch07_13.vcxproj|solutionrelative:Ch07_13\\strctptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "strctptr.cpp",
+              "DocumentMoniker": "D:\\FromGitHub\\cpp_projects\\Ch07_13\\Ch07_13\\strctptr.cpp",
+              "RelativeDocumentMoniker": "Ch07_13\\strctptr.cpp",
+              "ToolTip": "D:\\FromGitHub\\cpp_projects\\Ch07_13\\Ch07_13\\strctptr.cpp",
+              "RelativeToolTip": "Ch07_13\\strctptr.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T08:35:42.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

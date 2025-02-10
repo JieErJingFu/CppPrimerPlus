@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FromGitHub\\cpp_projects\\Ch07_06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{821B85C0-87A3-481E-891A-9CDD5520D961}|Ch07_06\\Ch07_06.vcxproj|D:\\FromGitHub\\cpp_projects\\Ch07_06\\Ch07_06\\arrfun2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{821B85C0-87A3-481E-891A-9CDD5520D961}|Ch07_06\\Ch07_06.vcxproj|solutionrelative:Ch07_06\\arrfun2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "arrfun2.cpp",
+              "DocumentMoniker": "D:\\FromGitHub\\cpp_projects\\Ch07_06\\Ch07_06\\arrfun2.cpp",
+              "RelativeDocumentMoniker": "Ch07_06\\arrfun2.cpp",
+              "ToolTip": "D:\\FromGitHub\\cpp_projects\\Ch07_06\\Ch07_06\\arrfun2.cpp",
+              "RelativeToolTip": "Ch07_06\\arrfun2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-02T08:30:53.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

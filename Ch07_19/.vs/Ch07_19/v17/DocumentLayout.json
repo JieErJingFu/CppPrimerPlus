@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FromGitHub\\VisualStudioProjects\\cpp_projects\\Ch07_19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9146E2A8-F17C-4CEF-A371-A58747AE1F0D}|Ch07_19\\Ch07_19.vcxproj|D:\\FromGitHub\\VisualStudioProjects\\cpp_projects\\Ch07_19\\Ch07_19\\arfupt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9146E2A8-F17C-4CEF-A371-A58747AE1F0D}|Ch07_19\\Ch07_19.vcxproj|solutionrelative:Ch07_19\\arfupt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "arfupt.cpp",
+              "DocumentMoniker": "D:\\FromGitHub\\VisualStudioProjects\\cpp_projects\\Ch07_19\\Ch07_19\\arfupt.cpp",
+              "RelativeDocumentMoniker": "Ch07_19\\arfupt.cpp",
+              "ToolTip": "D:\\FromGitHub\\VisualStudioProjects\\cpp_projects\\Ch07_19\\Ch07_19\\arfupt.cpp",
+              "RelativeToolTip": "Ch07_19\\arfupt.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T03:31:44.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

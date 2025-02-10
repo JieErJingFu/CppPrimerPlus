@@ -1,0 +1,3 @@
+﻿  arrfun4.cpp
+D:\FromGitHub\cpp_projects\Ch07_08\Ch07_08\arrfun4.cpp(20,13): warning C4101: 'pt': unreferenced local variable
+  Ch07_08.vcxproj -> D:\FromGitHub\cpp_projects\Ch07_08\x64\Debug\Ch07_08.exe

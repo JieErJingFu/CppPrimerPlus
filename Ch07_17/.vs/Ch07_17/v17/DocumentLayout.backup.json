@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FromGitHub\\cpp_projects\\Ch07_17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57435386-A759-4A7F-A210-5A5D8F2CBD6B}|Ch07_17\\Ch07_17.vcxproj|D:\\FromGitHub\\cpp_projects\\Ch07_17\\Ch07_17\\ruler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57435386-A759-4A7F-A210-5A5D8F2CBD6B}|Ch07_17\\Ch07_17.vcxproj|solutionrelative:Ch07_17\\ruler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ruler.cpp",
+              "DocumentMoniker": "D:\\FromGitHub\\cpp_projects\\Ch07_17\\Ch07_17\\ruler.cpp",
+              "RelativeDocumentMoniker": "Ch07_17\\ruler.cpp",
+              "ToolTip": "D:\\FromGitHub\\cpp_projects\\Ch07_17\\Ch07_17\\ruler.cpp",
+              "RelativeToolTip": "Ch07_17\\ruler.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T01:39:58.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
